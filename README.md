@@ -7,4 +7,4 @@ A non-personalised recommender system was also created for comparison.
 
 A very very simple command line interface was also built.
 
-See the [paper](./paper.pdf) I wrote for more details.
+See the [paper](./Report.pdf) I wrote for more details.
